@@ -46,7 +46,7 @@
 <Html>
 <head>
 <title>
-Registration Page
+Registration Page version 1
 </title>
 </head>
 <body bgcolor="Lightskyblue">
